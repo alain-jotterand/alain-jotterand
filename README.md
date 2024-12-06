@@ -1,10 +1,4 @@
-## Hi there 👋
-
-**alain-jotterand/alain-jotterand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on qwc 
+- 🔭 I’m currently working on qwc, a system to display geographical maps
 - 🌱 I’m currently learning reactJS
 
 
